@@ -1,0 +1,15 @@
+C:\Users\larsb\Source\Importer\bin\Debug\net7.0\Importer.exe
+C:\Users\larsb\Source\Importer\bin\Debug\net7.0\Importer.deps.json
+C:\Users\larsb\Source\Importer\bin\Debug\net7.0\Importer.runtimeconfig.json
+C:\Users\larsb\Source\Importer\bin\Debug\net7.0\Importer.dll
+C:\Users\larsb\Source\Importer\bin\Debug\net7.0\Importer.pdb
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.csproj.AssemblyReference.cache
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.AssemblyInfoInputs.cache
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.AssemblyInfo.cs
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.csproj.CoreCompileInputs.cache
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.dll
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\refint\Importer.dll
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.pdb
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\Importer.genruntimeconfig.cache
+C:\Users\larsb\Source\Importer\obj\Debug\net7.0\ref\Importer.dll
